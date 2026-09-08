@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- Virtual environments ----
+venv/
+.venv/
+env/
+
+# ---- C / C++ build outputs ----
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dSYM/
+build/
+cmake-build-*/
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
